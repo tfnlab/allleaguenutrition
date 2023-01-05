@@ -254,20 +254,20 @@ header
 }
 
 .background-header .main-nav .nav li a {
-  color: #1e1e1e!important;
+  color: #fe8823!important;
 }
 
 .background-header .logo,
 .background-header .main-nav .nav li a {
-  color: #1e1e1e!important;
+  color: #fe8823!important;
 }
 
 .background-header .main-nav .nav li:hover a {
-  color: #fb5849!important;
+  color: #fe8823!important;
 }
 
 .background-header .nav li a.active {
-  color: #fb5849!important;
+  color: #fe8823!important;
 }
 
 .header-area {
@@ -704,7 +704,7 @@ banner
 
 .video-overlay {
     position: absolute;
-    background-color: #fe8823;
+    background-color: rgba(31,39,43,0.75);
     top: 0;
     left: 0;
     bottom: 0;
@@ -739,7 +739,7 @@ banner
 
 .main-banner .caption h2 em {
   font-style: normal;
-  color: #323d38;
+  color: #fe8823;
   font-weight: 900;
 }
 
