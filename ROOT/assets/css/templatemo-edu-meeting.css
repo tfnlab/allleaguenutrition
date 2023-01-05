@@ -207,7 +207,7 @@ header
 */
 
 .sub-header {
-  background-color: #1f272b;
+  background-color: #fe8823;
   position: relative;
   z-index: 1111;
 }
@@ -457,7 +457,7 @@ header
   -o-transition: all 0.4s;
   -webkit-transition: all 0.4s;
   transition: all 0.4s;
-  background-color: #1e1e1e;
+  background-color: #fe8823;
   display: block;
   position: absolute;
   width: 30px;
@@ -468,7 +468,7 @@ header
 .background-header .main-nav .menu-trigger span,
 .background-header .main-nav .menu-trigger span:before,
 .background-header .main-nav .menu-trigger span:after {
-  background-color: #1e1e1e;
+  background-color: #fe8823;
 }
 
 .header-area .main-nav .menu-trigger span:before,
@@ -477,7 +477,7 @@ header
   -o-transition: all 0.4s;
   -webkit-transition: all 0.4s;
   transition: all 0.4s;
-  background-color: #1e1e1e;
+  background-color: #fe8823;
   display: block;
   position: absolute;
   width: 30px;
@@ -488,7 +488,7 @@ header
 
 .background-header .main-nav .menu-trigger span:before,
 .background-header .main-nav .menu-trigger span:after {
-  background-color: #1e1e1e;
+  background-color: #fe8823;
 }
 
 .header-area .main-nav .menu-trigger span:before,
@@ -529,11 +529,11 @@ header
   -ms-transform: translateY(6px) translateX(1px) rotate(45deg);
   -webkit-transform: translateY(6px) translateX(1px) rotate(45deg);
   transform: translateY(6px) translateX(1px) rotate(45deg);
-  background-color: #1e1e1e;
+  background-color: #fe8823;
 }
 
 .background-header .main-nav .menu-trigger.active span:before {
-  background-color: #1e1e1e;
+  background-color: #fe8823;
 }
 
 .header-area .main-nav .menu-trigger.active span:after {
@@ -541,11 +541,11 @@ header
   -ms-transform: translateY(-6px) translateX(1px) rotate(-45deg);
   -webkit-transform: translateY(-6px) translateX(1px) rotate(-45deg);
   transform: translateY(-6px) translateX(1px) rotate(-45deg);
-  background-color: #1e1e1e;
+  background-color: #fe8823;
 }
 
 .background-header .main-nav .menu-trigger.active span:after {
-  background-color: #1e1e1e;
+  background-color: #fe8823;
 }
 
 .header-area.header-sticky {
